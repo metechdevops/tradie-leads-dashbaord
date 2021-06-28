@@ -71,6 +71,10 @@ You can get IP from this Route `http://localhost:801/api/v1/get-container-ip`
 - PWA
 `$ quasar dev -m pwa`
 
+- Mobile App
+`$ quasar dev -m cordova -T [android|ios]`
+
+
 - Electron App
 `$ quasar dev -m electron`
  
