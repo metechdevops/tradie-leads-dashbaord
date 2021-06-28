@@ -71,6 +71,8 @@ You can get IP from this Route `http://localhost:801/api/v1/get-container-ip`
 - PWA
 `$ quasar dev -m pwa`
 
+- Electron App
+`$ quasar dev -m electron`
  
 
 #### Step 1: Unit Testing
