@@ -25,7 +25,7 @@
 
 #### Step 1: Deploy the Backend Service
 
-Frist you move into the project root directory and then run `$ cd docker` directory to run the dockerize backend services.
+First you move into the project root directory and then run `$ cd docker` directory to run the dockerize backend services.
 
 - Nginx Server
 - MySQL Database Server
